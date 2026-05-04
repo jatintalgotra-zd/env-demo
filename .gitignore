@@ -1,0 +1,10 @@
+**/configs/.local.env
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.DS_Store
+service-a/service-a
+service-b/service-b
